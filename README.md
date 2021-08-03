@@ -6,4 +6,4 @@ Para implementação somente alterar o a imagem do QR de exemplo para a imagem d
 imagem de exemplo abaixo:
 
 
-![img](https://live.staticflickr.com/65535/51354600664_4524ca6912_b.jpg)
+![img](https://live.staticflickr.com/65535/51353863951_df515f1108_b.jpg)
