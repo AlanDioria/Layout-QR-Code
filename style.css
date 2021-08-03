@@ -35,18 +35,14 @@
 }
 
 .qr-code {
-  display: flex;
-  justify-content: center;
-}
-
-.qr-code img {
   width: 93%;
   border-radius: 42px 42px 70px 70px;
   padding: 10px 15px 0 15px;
   background: white;
-  margin: -34px 0 0 0;
+  margin: -34px 0 0 -1px;
 }
-.container-qr p{
+
+.container-qr p {
   font-weight: 800;
   font-size: .8em;
 }
